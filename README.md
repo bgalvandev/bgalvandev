@@ -5,7 +5,7 @@
 
 ### Bruno Galván · Senior Full-Stack Engineer
 
-Now at @clinicsay, building the billing, scheduling and data-migration core of a clinic-management SaaS used by more than 20 clinics in Spain. Remote from Lima, Peru (UTC−5).
+Now at **[ClinicSay](https://clinicsay.com)**, building the billing, scheduling and data-migration core of a clinic-management SaaS used by more than 20 clinics in Spain. Remote from Lima, Peru (UTC−5).
 
 #### Start here
 
